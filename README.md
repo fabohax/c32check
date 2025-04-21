@@ -63,4 +63,4 @@ print(btc_back)
 
 Contributions are welcome! Fork the repository and submit a pull request. Feel free to open issues or suggest improvements.
 
-OSS 2025 [Fabo Hax](https://github.com/fabohax)
+OSS 2025 🄯 Fabo Hax
