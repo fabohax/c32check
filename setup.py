@@ -15,4 +15,7 @@ setup(
     ],
     python_requires='>=3.7',
     include_package_data=True,
+    install_requires=[
+        'base58>=2.1.0',  
+    ],
 )
